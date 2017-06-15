@@ -1,0 +1,22 @@
+Section vs Div
+	- No real difference, both are used as containers
+	- Sections are semantically used to group a section of content
+	- Sections were added in HTML5 
+		- footer, header, aside all are semantical HTML tags
+All elements on a HTML page will 
+
+Ids vs Classes
+	- IDs for unique element
+	- Classes to group multiple elements
+	- While there won't be an error for using the same ID on multiple elements, but it is not 'best-practise'
+
+
+Layers of styles in CSS
+	- the last css file loaded will override any conflicting styles
+	- webkit/moz are atyles that only apply to safari/mozilla
+
+Hosting HTML
+	- Github pages allows you to host static sites on their server
+	- Can be hosted as single pages or as a project
+	- Repo must use convention of [USERNAME].github.io to be a github page
+	

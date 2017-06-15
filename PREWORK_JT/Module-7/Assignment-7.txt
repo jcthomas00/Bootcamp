@@ -1,0 +1,14 @@
+Changes in BooTheDog.html
+-Added h1 tag to title
+-Removed 'Instruction' panel
+-Added p tags in 'About Boo' panel 
+-Added wikipedia link: href ="https://en.wikipedia.org/wiki/Boo_(dog)" in 'About Boo' panel 
+-Added '< />' to img tag 
+-Added <li> tags to 'Boo's favorite things' panel
+-Switched textGreen, textPink and textOrange id's to match text.
+-Changed script name from errors.js to logic.js
+
+Changes in logic.js
+-Added quotes in boo facts
+-Added quotes to 'pink' 
+-Added quotes to 'click' in boxShrink and boxGrow functions

@@ -1,0 +1,48 @@
+.centered {
+	text-align: center;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+.blue {
+	color: blue;
+}
+
+.large {
+	font-size: xx-large;
+}
+
+.small {
+	font-size: xx-small;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.newfont {
+	font-family: "Arial";
+}
+
+.splashy {
+	font-weight: bold;
+	font-size: x-large;
+	color: orange;
+}
+
+.styledFont {
+	color: green;
+	font-family: "Arial";
+	font-size: large;
+
+}
+
+img {
+	border: solid 10px orange;
+}

@@ -1,0 +1,19 @@
+h1 {
+	font-family: 'Mogra', cursive;;
+	font-size: 3rem;
+}
+
+h3 {
+font-family: 'Dancing Script', cursive;
+}
+
+h4 {
+font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	line-height: 1.5rem;
+}
+
